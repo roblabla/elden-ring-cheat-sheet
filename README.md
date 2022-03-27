@@ -1,3 +1,5 @@
+# Go to https://github.com/Roundtable-Hold/tracker for a good tracker. This repo just contains my own personal unsupported mess of a cheat sheet.
+
 # Dark Souls 3 Cheat Sheet
 
 To view the cheat sheet [click here](http://roblabla.github.io/elden-ring-cheat-sheet/).
