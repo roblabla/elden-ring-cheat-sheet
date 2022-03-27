@@ -1,10 +1,8 @@
 # Dark Souls 3 Cheat Sheet
 
-To view the cheat sheet [click here](http://zkjellberg.github.io/dark-souls-3-cheat-sheet/).
+To view the cheat sheet [click here](http://roblabla.github.io/elden-ring-cheat-sheet/).
 
-This checklist was created by adopting the source code from the [Dark Souls 2 Cheat Sheet](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) created by [Stephen McNabb](https://github.com/smcnabb).
-
-The walkthrough is thanks to [DeathGodGarra's NPC Side Quests Guide V2](https://www.gamefaqs.com/boards/168566-dark-souls-iii/73599466).
+This checklist was created by adopting the source code from the [Dark Souls 3 Cheat Sheet](https://github.com/zkjellberg/dark-souls-3-cheat-sheet/) created by [Zachary Kjellberg](https://github.com/ZKJellberg) and the [Dark Souls 2 Cheat Sheet](https://github.com/smcnabb/dark-souls-2-cheat-sheet/tree/gh-pages) created by [Stephen McNabb](https://github.com/smcnabb).
 
 ## Contribution Guide
 
@@ -25,21 +23,19 @@ The **class="f_gem f_misc"** field is used for the filtering system. This task p
 | f_boss  | Boss fights |
 | f_miss  | Content that can be permanently missed |
 | f_npc   | NPC side quests |
-| f_estus | Estus Shards |
-| f_bone  | Undead Bone Shards |
-| f_tome  | Sorcery Scrolls, Pyromancy Tomes, and Divine Tomes |
-| f_coal  | Coals |
-| f_ash   | Umbral Ashes |
+| f_seed  | Golden Seed |
+| f_tear  | Sacred Tear |
+| f_tome  | Sorcery Scrolls, and Incantation Prayerbook |
+| f_tear  | Effect for Physik flask |
+| f_wash  | Ash of War |
+| f_sash  | Spirit Ashes |
 | f_gest  | Gestures |
 | f_sorc  | Sorceries |
-| f_pyro  | Pyromancies |
-| f_mirac | Miracles |
-| f_ring  | Rings |
+| f_inca  | Incantations |
+| f_tali  | Talismans |
 | f_weap  | Weapons, Spell Tools, and Shields |
 | f_arm   | Armor Sets or individual pieces |
-| f_tit   | Titanite |
-| f_gem   | Gems |
-| f_cov   | Covenants |
+| f_stone | Smithing Stones |
 | f_misc  | *any other items* |
 
 If none of these filter classes match, use **class="f_none"**.
